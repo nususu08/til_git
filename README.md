@@ -225,7 +225,8 @@ git branch -v
 - 주의 사항 : `main 브랜치에서 test 브랜치 합쳐줄 겁니다.`
 
 ```bash
-git merge 합쳐주고자하는 브랜치명
+git add.
+git commit -m "[docs]:브랜치 실습 test 합치기"
 ```
 
 # GitHub
