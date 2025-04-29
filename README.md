@@ -364,4 +364,4 @@ git commit -m "작업내용"
 git push origin 브랜치명
 ```
 
-add
+add 22
